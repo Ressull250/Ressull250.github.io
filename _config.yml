@@ -85,8 +85,8 @@ kramdown:
 
 
 # Featured Tags
-featured-tags: false                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+#featured-tags: false                     # 是否使用首页标签
+#featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+#friends: [
 #    {
 #        title: "WY",
 #        href: "http://zhengwuyang.com"
@@ -111,4 +111,4 @@ friends: [
 #        title: "Apple Developer",
 #        href: "https://developer.apple.com/"
 #    }
-]
+#]
