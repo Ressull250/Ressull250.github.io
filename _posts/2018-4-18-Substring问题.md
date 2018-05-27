@@ -6,6 +6,8 @@ date:       2018-04-18
 author:     LiaoBo
 header-img: img/header_02.jpg
 catalog: true
+tags:
+    - 算法
 ---
 # 求解substring相关问题
 
