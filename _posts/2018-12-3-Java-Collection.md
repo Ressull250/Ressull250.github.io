@@ -7,7 +7,7 @@ author:     LiaoBo
 header-img: img/header_02.jpg
 catalog: true
 tags:
-    - Java
+    - JVM
 ---
 ## Collection
 
