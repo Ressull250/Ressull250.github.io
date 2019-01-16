@@ -11,7 +11,7 @@ github_repo: "https://github.com/Ressull250/Ressull250.github.io" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "为了联盟！！!"
+sidebar-about-description: " ）"
 sidebar-avatar: /img/myphoto.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
